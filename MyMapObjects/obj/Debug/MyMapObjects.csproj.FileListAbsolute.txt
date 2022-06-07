@@ -1,0 +1,32 @@
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\bin\Debug\MyMapObjects.dll
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\bin\Debug\MyMapObjects.pdb
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.csproj.CoreCompileInputs.cache
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.dll
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.pdb
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.csprojAssemblyReference.cache
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.moMapControl.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\bin\Debug\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\bin\Debug\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.csproj.AssemblyReference.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.moMapControl.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.csproj.CoreCompileInputs.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjects\obj\Debug\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\bin\Debug\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\bin\Debug\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.AssemblyReference.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.moMapControl.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.CoreCompileInputs.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\bin\Debug\MyMapObjects.dll
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\bin\Debug\MyMapObjects.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.AssemblyReference.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.moMapControl.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.GenerateResource.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.CoreCompileInputs.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.dll
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.pdb

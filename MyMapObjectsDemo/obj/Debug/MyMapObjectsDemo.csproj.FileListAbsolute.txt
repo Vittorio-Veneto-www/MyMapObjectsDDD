@@ -1,0 +1,133 @@
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.exe
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.pdb
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.Properties.Resources.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.GenerateResource.cache
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.exe
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.pdb
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csprojAssemblyReference.cache
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjects.dll
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjects.pdb
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmMain.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CopyComplete
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmCreateLayer.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAttributes.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmDeleteField.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmNewField.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSelectedByAttributes.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmFillSymbology.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLabels.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerProperties.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLineSymbology.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmPointSymbology.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSource.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddXY.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddDeltaXY.resources
+E:\GIS设计和应用\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.exe
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.pdb
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.AssemblyReference.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddDeltaXY.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddXY.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAttributes.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmCreateLayer.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmDeleteField.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmFillSymbology.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLabels.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerProperties.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLineSymbology.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmMain.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmNewField.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmPointSymbology.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSource.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.Properties.Resources.resources
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.exe
+E:\Downloads\MyMapObjectsDemo-final\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.exe.config
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.exe
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.AssemblyReference.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddDeltaXY.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddXY.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAttributes.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmCreateLayer.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmDeleteField.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmFillSymbology.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLabels.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerProperties.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLineSymbology.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmMain.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmNewField.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmPointSymbology.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSource.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.Properties.Resources.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.exe
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjects.dll
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjects.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.AssemblyReference.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddDeltaXY.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddXY.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAttributes.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmCreateLayer.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmDeleteField.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmFillSymbology.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLabels.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerProperties.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLineSymbology.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmMain.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmNewField.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmPointSymbology.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSelectedByAttributes.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSource.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.Properties.Resources.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.GenerateResource.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CopyComplete
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\DDD.exe.config
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\DDD.exe
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\DDD.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\DDD.exe
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\DDD.pdb
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\DDD.exe.config
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\DDD.exe
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\DDD.pdb
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjects.dll
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Debug\MyMapObjects.pdb
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.AssemblyReference.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.SuggestedBindingRedirects.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddDeltaXY.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAddXY.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmAttributes.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmCreateLayer.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmDeleteField.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmFillSymbology.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLabels.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerProperties.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLineSymbology.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmMain.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmNewField.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmPointSymbology.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSelectedByAttributes.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmSource.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.Properties.Resources.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.GenerateResource.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.CopyComplete
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\DDD.exe
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Debug\DDD.pdb

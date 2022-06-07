@@ -1,0 +1,15 @@
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\bin\Release\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\bin\Release\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.moMapControl.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.csproj.CoreCompileInputs.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\bin\Release\MyMapObjects.dll
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\bin\Release\MyMapObjects.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.csproj.AssemblyReference.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.moMapControl.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.csproj.GenerateResource.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.csproj.CoreCompileInputs.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.dll
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Release\MyMapObjects.pdb

@@ -1,0 +1,82 @@
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjectsDemo.exe
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjectsDemo.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.dll
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.AssemblyReference.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddDeltaXY.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddXY.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAttributes.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmCreateLayer.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmDeleteField.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmFillSymbology.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLabels.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLayerProperties.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLineSymbology.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmMain.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmNewField.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmPointSymbology.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSelectedByAttributes.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSource.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.Properties.Resources.resources
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.GenerateResource.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.exe
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.pdb
+E:\Downloads\MyMapObjectsDDD\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjectsDemo.exe.config
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.dll
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.AssemblyReference.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddDeltaXY.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddXY.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAttributes.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmCreateLayer.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmDeleteField.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmFillSymbology.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLabels.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLayerProperties.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLineSymbology.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmMain.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmNewField.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmPointSymbology.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSelectedByAttributes.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSource.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.Properties.Resources.resources
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.GenerateResource.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CopyComplete
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.exe.config
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.exe
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.pdb
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.exe
+C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.pdb
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.exe.config
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.exe
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.pdb
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.dll
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.pdb
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.AssemblyReference.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.SuggestedBindingRedirects.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddDeltaXY.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddXY.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAttributes.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmCreateLayer.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmDeleteField.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmFillSymbology.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLabels.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLayerProperties.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLineSymbology.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmMain.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmNewField.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmPointSymbology.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSelectedByAttributes.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSource.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.Properties.Resources.resources
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.GenerateResource.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CopyComplete
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.exe
+D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.pdb
