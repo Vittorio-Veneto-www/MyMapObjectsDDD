@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1082
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMapObjectsDemo", "MyMapObjectsDemo\MyMapObjectsDemo.csproj", "{83B61E1C-A246-441C-A1FC-71111100EC1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMapObjectsDDD", "MyMapObjectsDDD\MyMapObjectsDDD.csproj", "{83B61E1C-A246-441C-A1FC-71111100EC1A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMapObjects", "MyMapObjects\MyMapObjects.csproj", "{EB082FED-5E72-4A27-BC50-C0182A23AC13}"
 EndProject
