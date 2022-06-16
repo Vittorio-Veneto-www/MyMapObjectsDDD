@@ -995,8 +995,7 @@ namespace MyMapObjectsDemo
                         for (Int32 k = 0; k <= pointCount - 1; k++)
                         {
                             MyMapObjects.moPoint sPoint = sPoints.GetItem(k);
-                            MyMapObjects.moCoordinateTrans transTool = new MyMapObjects.moCoordinateTrans();
-                            MyMapObjects.moPoint newPoint = transTool.ToProjectedCoordinate(sPoint.Y, sPoint.X);
+                            MyMapObjects.moPoint newPoint = moMap.ProjectionCS.TransferToProjCo(sPoint);
                             sPoint.X = newPoint.X;
                             sPoint.Y = newPoint.Y;
                         }

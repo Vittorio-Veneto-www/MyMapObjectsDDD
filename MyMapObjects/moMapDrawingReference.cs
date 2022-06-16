@@ -68,6 +68,7 @@ namespace MyMapObjects
         internal double mpu
         {
             get { return _mpu; }
+            set {}
         }
 
         #endregion

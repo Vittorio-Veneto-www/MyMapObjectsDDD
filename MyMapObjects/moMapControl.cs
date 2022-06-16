@@ -19,6 +19,7 @@ namespace MyMapObjects
 
         // 运行时属性变量
         private moLayers _Layers = new moLayers();  // 图层集合
+        private moProjectionCS _ProjectionCS;  //坐标系统
 
         // 模块级变量
         private moMapDrawingReference mMapDrawingReference; // 地图屏幕坐标转换对象
@@ -42,6 +43,8 @@ namespace MyMapObjects
         {
             // 新建地图-屏幕坐标转换对象
             CreateMapDrawingReference();
+            //创建默认投影坐标系统
+            CreateDefaultProjectionCS();
             InitializeComponent();
             // 调整缓冲位图尺寸
             ResizeBufferMap();
@@ -78,6 +81,20 @@ namespace MyMapObjects
         }
 
         /// <summary>
+        /// 获取或设置投影坐标系统
+        /// </summary>
+        [Browsable(false)]
+        public moProjectionCS ProjectionCS
+        {
+            get { return _ProjectionCS; }
+            set
+            {
+                _ProjectionCS = value;
+                mMapDrawingReference.mpu = _ProjectionCS.ToMeters(1);
+            }
+        }
+
+        /// <summary>
         /// 获取或设置图层集合
         /// </summary>
         [Browsable(false)]  // 运行时属性，在属性窗体中不可见
@@ -103,7 +120,7 @@ namespace MyMapObjects
         /// </summary>
         [Browsable(false)]
 
-        public double MaoOffstX
+        public double MapOffsetX
         {
             get { return mMapDrawingReference.OffsetX; }
         }
@@ -113,7 +130,7 @@ namespace MyMapObjects
         /// </summary>
         [Browsable(false)]
 
-        public double MaoOffstY
+        public double MapOffsetY
         {
             get { return mMapDrawingReference.OffsetY; }
         }
@@ -513,6 +530,29 @@ namespace MyMapObjects
         #endregion
 
         #region 私有函数
+
+        //创建一个默认的投影坐标系统
+        private void CreateDefaultProjectionCS()
+        {
+            string sProjCSName = "Beijing54 Lambert Conformal Conic 2SP";
+            string sGeoCSName = "Beijing 1954";
+            string sDatumName = "Beijing 1954";
+            string sSpheroidName = "Krassowsky_1940";
+            double sSemiMajor = 6378245;
+            double sInverseFlattening = 298.3;
+            double sOriginLatitude = 0;
+            double sCentralMeridian = 105;
+            double sFalseEasting = 0;
+            double sFalseNorthing = 0;
+            double sScaleFactor = 1;
+            double sStandardParallelOne = 30;
+            double sStandardParallelTwo = 62;
+            moLinearUnitConstant sLinearUnit = moLinearUnitConstant.Meter;
+            moProjectionTypeConstant sProjType = moProjectionTypeConstant.Lambert_Conformal_Conic_2SP;
+            _ProjectionCS = new moProjectionCS(sProjCSName, sGeoCSName, sDatumName, sSpheroidName, sSemiMajor,
+                sInverseFlattening, sProjType, sOriginLatitude, sCentralMeridian, sFalseEasting,
+                sFalseNorthing, sScaleFactor, sStandardParallelOne, sStandardParallelTwo, sLinearUnit);
+        }
 
         //创建地图-屏幕坐标转换对象
         private void CreateMapDrawingReference()
