@@ -80,3 +80,30 @@ D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\M
 D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CopyComplete
 D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.exe
 D:\Data\academic\大学资料\3.2\GIS设计和应用\作业一\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.pdb
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.exe.config
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.exe
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\DDD.pdb
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.dll
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\bin\Release\MyMapObjects.pdb
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.AssemblyReference.cache
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddDeltaXY.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAddXY.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAnyLayerSelectedByAttributes.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmAttributes.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmCreateLayer.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmDeleteField.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmFillSymbology.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLabels.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLayerProperties.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmLineSymbology.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmMain.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmNewField.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmPointSymbology.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSelectedByAttributes.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.frmSource.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.Properties.Resources.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.GenerateResource.cache
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\MyMapObjectsDemo.csproj.CopyComplete
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.exe
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjectsDemo\obj\Release\DDD.pdb

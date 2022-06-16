@@ -30,3 +30,11 @@ C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMap
 C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.CoreCompileInputs.cache
 C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.dll
 C:\Users\uroxi\Documents\Tencent Files\1356711866\FileRecv\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.pdb
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\bin\Debug\MyMapObjects.dll
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\bin\Debug\MyMapObjects.pdb
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.AssemblyReference.cache
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.moMapControl.resources
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.GenerateResource.cache
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.dll
+E:\Documents\Visual Studio 2019\Source\Repos\MyMapObjectsDDD\MyMapObjects\obj\Debug\MyMapObjects.pdb
